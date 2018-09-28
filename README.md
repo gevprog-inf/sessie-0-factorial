@@ -1,4 +1,4 @@
-# sessie-0-factorial
+# session-0-factorial
 Session 0. Factorial exercise.
 
 Write one **recursive** factorial function (use unsigned long int). You obviously know that n! = n * (n-1) * (n-2) * .. * 1 for n > 0 and that 0! = 1.
